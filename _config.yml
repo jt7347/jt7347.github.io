@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tam (Jimmy) Tran"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Tam (Jimmy) Tran"
 description              : &description "personal description"
@@ -87,7 +87,7 @@ author:
   employer         : "Intelligent Robot Motion Lab"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "jimmytatr21@gmail.com"
+  email            : "jimmytatr21 [at] gmail [dot] com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/tam-jimmy-tran/"
+  linkedin         : "tam-jimmy-tran"
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
