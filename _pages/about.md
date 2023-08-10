@@ -10,8 +10,10 @@ redirect_from:
 
 I am a current undergradute student at Princeton University pursuing a B.S.E. degree in Mechanical and Aerospace Engineering, with a certificate in Robotics and Intellient Systems. My aspiration is to work in the space industry with specializations in aerospace and robotics engineering. Specifically, I am interested in shaping my pursuits towards a future where robots can safely and efficiently aid humans in space exploration initiatives.
 
-Essentially, turning this:                               into this:
-<br/><img src='/images/AgIRoM_dead.gif' width='325'>     <br/><img src='/images/AgIRoM_setpoint.gif' width='325'>
+Essentially...
+Before | After
+:-------------------------:|:-------------------------:
+<img src='/images/AgIRoM_dead.gif' width='325'> | <img src='/images/AgIRoM_setpoint.gif' width='325'>
 
 I am also working as an undergrate researcher at the Intelligent Robot Motion Lab ([IRoM](https://irom-lab.princeton.edu/)), advised by Professor Majumdar and my graduate student mentor, Nathaniel Simon. My work involves developing an agile computer vision-based autonomous quadcopter platform to be applied in the Lab's future UAV research. You can find the progress of my work in my projects page, alongside a guide for building and developing our platform which was largely replicated from UZH Robotics and Perception Group's open-source platform.
 
