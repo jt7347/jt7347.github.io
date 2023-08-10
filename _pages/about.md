@@ -14,7 +14,7 @@ Essentially...
 
 Before | After
 :-------------------------:|:-------------------------:
-<img src='/images/AgIRoM_dead.gif' width='325'> | <img src='/images/AgIRoM_setpoint.gif' width='328'>
+<img src='/images/AgIRoM_dead.gif' width='325'> | <img src='/images/AgIRoM_setpoint.gif' width='327'>
 
 I am also working as an undergrate researcher at the Intelligent Robot Motion Lab ([IRoM](https://irom-lab.princeton.edu/)), advised by Professor Majumdar and my graduate student mentor, Nathaniel Simon. My work involves developing an agile computer vision-based autonomous quadcopter platform to be applied in the Lab's future UAV research. You can find the progress of my work in my projects page, alongside a guide for building and developing our platform which was largely replicated from UZH Robotics and Perception Group's open-source platform.
 
