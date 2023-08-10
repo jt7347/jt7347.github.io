@@ -11,6 +11,7 @@ redirect_from:
 I am a current undergradute student at Princeton University pursuing a B.S.E. degree in Mechanical and Aerospace Engineering, with a certificate in Robotics and Intellient Systems. My aspiration is to work in the space industry with specializations in aerospace and robotics engineering. Specifically, I am interested in shaping my pursuits towards a future where robots can safely and efficiently aid humans in space exploration initiatives.
 
 Essentially...
+
 Before | After
 :-------------------------:|:-------------------------:
 <img src='/images/AgIRoM_dead.gif' width='325'> | <img src='/images/AgIRoM_setpoint.gif' width='325'>
