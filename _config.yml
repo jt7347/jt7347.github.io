@@ -84,7 +84,8 @@ author:
   avatar           : "profile.png"
   bio              : "Mechanical and Aerospace Engineering [Class of 2025]"
   location         : "Princeton University"
-  employer         : "https://irom-lab.princeton.edu/"
+  github           : "irom-lab"
+  # employer         : ""
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "jimmytatr21@gmail.com"
@@ -96,7 +97,6 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  # github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :

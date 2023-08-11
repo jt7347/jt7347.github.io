@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergradute student at Princeton University pursuing a B.S.E. degree in Mechanical and Aerospace Engineering, with a certificate in Robotics and Intellient Systems. With aspirations to help advance the integration of aerospace and robotics engineering within the space industry, I am interested in shaping my pursuits towards a future where robots can safely and efficiently aid humans in space exploration initiatives.
+I am an undergraduate student at Princeton University pursuing a B.S.E. degree in Mechanical and Aerospace Engineering, with a certificate in Robotics and Intellient Systems. With aspirations to help advance the integration of aerospace and robotics engineering within the space industry, I am interested in shaping my pursuits towards a future where robots can safely and efficiently aid humans in space exploration initiatives.
 
 Essentially...
 
