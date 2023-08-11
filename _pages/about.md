@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a current undergradute student at Princeton University pursuing a B.S.E. degree in Mechanical and Aerospace Engineering, with a certificate in Robotics and Intellient Systems. My aspiration is to work in the space industry with specializations in aerospace and robotics engineering. Specifically, I am interested in shaping my pursuits towards a future where robots can safely and efficiently aid humans in space exploration initiatives.
+I am an undergradute student at Princeton University pursuing a B.S.E. degree in Mechanical and Aerospace Engineering, with a certificate in Robotics and Intellient Systems. With aspirations to help advance the integration of aerospace and robotics engineering within the space industry, I am interested in shaping my pursuits towards a future where robots can safely and efficiently aid humans in space exploration initiatives.
 
 Essentially...
 
@@ -16,9 +16,9 @@ Before | After
 :-------------------------:|:-------------------------:
 <img src='/images/AgIRoM_dead.gif' width='325'> | <img src='/images/AgIRoM_setpoint.gif' width='327'>
 
-I am also working as an undergrate researcher at the Intelligent Robot Motion Lab ([IRoM](https://irom-lab.princeton.edu/)), advised by Professor Majumdar and my graduate student mentor, Nathaniel Simon. My work involves developing an agile computer vision-based autonomous quadcopter platform to be applied in the Lab's future UAV research. You can find the progress of my work in my projects page, alongside a guide for building and developing our platform which was largely replicated from UZH Robotics and Perception Group's open-source platform.
+I am also working as an undergraduate researcher at the Intelligent Robot Motion Lab ([IRoM](https://irom-lab.princeton.edu/)), advised by Professor Majumdar and my graduate student mentor, Nathaniel Simon. My work involves collaborating with Nate to build and develop an agile computer vision-based autonomous quadcopter platform to be deployed in unknown, changing environments. The progress of my work can be found under the projects page, alongside a guide for our platform. It should be noted that AgIRoM (the name of the project) is based off UZH Robotics and Perception Group's open-source platform. The overarching goals of AgIRoM include furthering the process of standardizing UZH's highly modular autonomous drone research platform, alongside having a piece of hardware on hand that can be applied in the Lab's future UAV research.
 
-Outside of academics and work, I am one of the leaders of Princeton University Robotics Club where I lead a team working on building autonomous drones that can safely interact with human environments (our first milestone being vision-based gesture control), and I also play for Princeton Men's Division Ultimate Frisbee Team.
+Outside of academics and work, I am involved in Princeton University Robotics Club where I lead the Drone Team - one of our recent projects being a fully autonomous quadcopter with computer-vision based gesture control capabilities, and I also play for the Princeton Men's Division Ultimate Frisbee Team.
 
 <!-- A data-driven personal website
 ======

@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Tam (Jimmy) Tran"
 title_separator          : "-"
 name                     : &name "Tam (Jimmy) Tran"
-description              : &description "personal description"
+description              : &description "My GitHub Page"
 url                      : https://jt7347.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jt7347/jt7347.github.io"
@@ -83,11 +83,11 @@ author:
   name             : "Tam (Jimmy) Tran"
   avatar           : "profile.png"
   bio              : "Mechanical and Aerospace Engineering [Class of 2025]"
-  location         : "Princeton University"
-  employer         : "Intelligent Robot Motion Lab"
+  location         : "Princeton University, Princeton NJ"
+  employer         : "Undergraduate Researcher @Intelligent Robot Motion Lab"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "jimmytatr21 [at] gmail [dot] com"
+  email            : "jimmytatr21@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
