@@ -8,4 +8,4 @@ main:
     
   # if you want to directly link pdf, do /files/resume.pdf instead for url 
   - title: "CV"
-    url: /files/resume.pdf
+    url: /cv/
