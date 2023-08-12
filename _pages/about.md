@@ -18,7 +18,7 @@ Turning this... | Into this!
 
 I am also working as an undergraduate researcher at the Intelligent Robot Motion Lab ([IRoM](https://irom-lab.princeton.edu/)), advised by [Professor Majumdar](https://irom-lab.princeton.edu/majumdar/) and my graduate student mentor [Nathaniel Simon](https://natesimon.github.io/). My work involves collaborating with Nate to build and develop an agile computer vision-based autonomous quadcopter platform to be deployed in unknown, changing environments. The progress of my work can be found under the [projects](https://jt7347.github.io/projects/) page, alongside a build guide for AgIRoM (the name of the project). It should be noted that AgIRoM is based off UZH Robotics and Perception Group's open-source platform, [Agilicious](https://github.com/uzh-rpg/agilicious). The overarching goals for AgIRoM include furthering the process of standardizing autonomous drone research platforms across research labs, alongside having a modular piece of hardware that can be applied in the Lab's future UAV research.
 
-Outside of academics and work, I am involved in Princeton University Robotics Club where I lead the Drone Team - one of our recent projects being a fully autonomous quadcopter with computer-vision based gesture control capabilities, and I also play for the Princeton Men's Division Ultimate Frisbee Team.
+Outside of academics and work, I am involved in Princeton University Robotics Club where I lead the Drone Team - one of our recent projects being a fully autonomous quadcopter (using the [PX4 Autpilot](https://px4.io/)) with computer-vision based gesture control capabilities, and I also play for the Princeton Men's Division Ultimate Frisbee Team.
 
 <!-- A data-driven personal website
 ======
