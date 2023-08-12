@@ -85,12 +85,12 @@ author:
   bio              : "Mechanical and Aerospace Engineering [Class of 2025]"
   location         : "Princeton University"
   github           : "irom-lab"
-  # employer         : ""
-  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  # googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         :
+  pubmed           :
+  googlescholar    : 
   email            : "jimmytatr21@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  researchgate     : 
+  uri              : "test"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         : "tam-jimmy-tran"
-  # orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  # twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
