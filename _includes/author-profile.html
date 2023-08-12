@@ -23,13 +23,11 @@
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
-        <li><a href="https://www.princeton.edu/"><i class="fab fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</a></li>
+        <li><a href="{{ author.location }}"><i class="fab fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</a></li>
       {% endif %}
-      {% if author.employer %}
+      <!-- {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
-      {% endif %}
-      {% endif %}
+      {% endif %} -->
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Intelligent Robot Motion Lab</a></li>
       {% endif %}
