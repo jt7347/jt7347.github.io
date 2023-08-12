@@ -58,7 +58,8 @@
    $code-background-color      : mix(#000, $background-color, 15%);
    $code-background-color-dark : mix(#000, $background-color, 20%);
    $text-color                 : #eaeaea;
-   $border-color               : mix(#fff, $background-color, 20%);
+   // changing border colors
+   $border-color               : mix(#000000, $background-color, 20%);
    
    $primary-color              : #8cd2d5;
    $success-color              : #62c462;
