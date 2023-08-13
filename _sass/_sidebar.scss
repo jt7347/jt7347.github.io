@@ -88,7 +88,7 @@
     // max-height: 225;
 
     @include breakpoint($large) {
-      padding: 5px;
+      padding: 6px;
       border: 3px solid $border-color;
     }
   }
