@@ -10,7 +10,7 @@ Hi! This is AgIRoM, a replicated hardware platform for agile vision-based autono
 
 **AgIRoM**             | 
 :-------------------------:|
-<img src="https://github.com/jt7347/jt7347.github.io/tree/master/images/AgIRoM_fullbuild.jpg" width=50%> |
+<img src="/images/AgIRoM_fullbuild.jpg" width=50%> |
 
 # **[CITE FROM UZH RPG Agilicious](https://github.com/uzh-rpg/agilicious_internal#credits)**
 
@@ -30,7 +30,7 @@ To build the quad, you will need M# hardware (nuts, bolts, nyloc nuts, heat set 
 ### Wiring
 Agilicious uses serial UART to interface communications between the High-Level and Low-Level computers (Jetson Orin NX <=> Betaflight Flight Controller). In AgIRoM's case, this requires you to wire the RX/TX pads of the respective devices to each other (Note: typically, power cables for example would just wire + to +, and - to -, but in UART's case, you instead have to wire RX of one device to TX of the other and vice versa. Think of it as defining receiving and transmitting ends. If using the Boson Carrier Board + Orin NX and the SpeedyBeeF7 V3 flight controller for example, just simply find the RX/TX pins and pads on each device and wire them accordingly (manuals can also be found below in the Misc. Manuals section). Your choice of hardware may differ, and consequently the wiring may differ slightly, but ultimately the process is the same. Be sure to find out further configuration steps required to use the respective UART ports on each device --> e.g. steps to configure the serial interface for Orin found in the next section, and steps to toggle UART ports for specific purposes (telemetry, serial RX) found in Betaflight setup section.
 
-<img src="https://github.com/jt7347/jt7347.github.io/tree/master/images/Boson_Plugs.PNG" width=20% height=20%>
+<img src="../images/Boson_Plugs.PNG" width=20% height=20%>
 
 [add thing about how to power orin and FC ~ cables and voltage step down module]
 
@@ -42,7 +42,7 @@ First things - the Orin NX 16GB module does not have internal storage. Consequen
 
 Refer to the Boson carrier board's manual for switches 2 and 3 locations - these are important, and act as the reboot, and force recovery pushbuttons respectively. 
 
-<img src="https://github.com/jt7347/jt7347.github.io/tree/master/images/Boson.PNG" width=75%>
+<img src="../images/Boson.PNG" width=75%>
 
 You will be using (https://connecttech.com/resource-center/kdb373/) to install the OS on the Orin NX. This step requires a "host" Linux computer with at least 40GB of free space. Peripherals you may find useful during this process include a mouse, keyboard, HDMI output to monitor, and an Ethernet connection.
 
