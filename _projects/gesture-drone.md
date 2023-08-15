@@ -1,6 +1,6 @@
 ---
 title: "Gesture Drone"
-excerpt: "A Modular Vision-Based Autonomous Quadcopter<br/><br/><img src='/images/Gesture_Drone.jpg' width='600'>"
+excerpt: "Modular Vision-Based Autonomous Quadcopter with Gesture Control Capabilities<br/><br/><img src='/images/Gesture_Drone.jpg' width='600'>"
 collection: portfolio
 ---
 
