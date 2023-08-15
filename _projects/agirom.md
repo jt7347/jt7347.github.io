@@ -24,4 +24,4 @@ Simulation Software
 ======
 One of the baseline purposes for AgIRoM is to be able to navigate unknown, changing environments in real time. The next step of AgIRoM was to get it working in base case situations: the interest of IRoM being navigation of UAVs in unknown changing environments. With the main purpose of the platform being 'development,' it was important to first implement a working sample before additional features or policies could be implemented on top. UZH's Agile Autonomy repository is currently being tested on our plaform. So far, I have been able to build and run their sample code (below is example of the output of the training).
 
-<img src='https://github.com/jt7347/jt7347.github.io/tree/master/images/agile-autonomy.PNG' width='600'>
+<img src='/images/agile-autonomy.PNG' width='600'>
