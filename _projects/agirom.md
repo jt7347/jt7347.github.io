@@ -14,7 +14,7 @@ Build
 ======
 Whilst _Agilicious'_ platform has most of the general build instructions detailed, issues such as deprecated software dependencies, version compatibilities with different hardware, parts being discontinued, will need to be ironed out individually. As such, I've written documentation for my process in building and developing AgIRoM, which can be found here:
 
-[Link to AgIRoM Build Guide!](/files/agirom-build-guide.md)
+[Link to AgIRoM Build Guide!](/_pages/agirom-build-guide.md)
 
 This guide will provide pointers for building and running the platform, including some conflicts I encountered + how I overcame them. In addition, it'll have instructions on how to configure and integrate newer/different hardware (for example, we used a Jetson Orin NX board instead of the discontinued Jetson TX2s used by _Agilicious_) and CAD files for mounting the sepcific parts we used. My hope is that this guide will help others understand what they're working with a little better - or as I like to think, there can never be too much documentation (or at least there's usually never enough of it...)!
 
