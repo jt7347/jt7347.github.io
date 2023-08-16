@@ -4,6 +4,10 @@ excerpt: "A Replicated Hardware Platform for Agile Autonomous Vision-Based Fligh
 collection: portfolio
 ---
 
+**AgIRoM**             | 
+:-------------------------:|
+<img src='/images/agirom_desk.jpg' width=50%> |
+
 Overview
 ======
 AgIRoM is a replicated platform, based on UZH Robotics and Perception Group's open-sourced platform [_Agilicious_](https://github.com/uzh-rpg/agilicious). The purpose for AgIRoM is for IRoM Lab to have a modular UAV (unmanned arial vehicle) research platform on hand that can be fitted to different research applications - for example, testing new control policies, or path-planning algorithms. In addition, there does not currently exist a 'standardized' UAV research platform capable of computer vision-based agile flight; the secondary purpose of AgIRoM is to affirm the process of standardizing a benchmark research platform for future lab work across the world to build upon - namely, _Agilicious_. For example, these platforms will funtion simlarly to how research labs may use a [Unitree Robotic Quadruped](https://m.unitree.com/en/), or a [Franka Robotic Arm](https://www.franka.de/). Considering the timely costs of building a new platform from the ground up every time a lab wants to conduct real-life UAV experiments, existing platforms that are readily available, easy to set up, and modularizeable, become a more lucrative option. 
