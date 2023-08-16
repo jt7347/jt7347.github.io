@@ -1,10 +1,8 @@
 ---
 layout: archive
 title: "AgIRoM Build Guide (In Progress)"
-permalink: /build-guide/
+permalink: /projects/agirom/build-guide/
 author_profile: true
-redirect_from:
-  - /projects/agirom/build-guide/
 ---
 
 Hi! This is AgIRoM, a replicated hardware platform for agile vision-based autonomous flight. Credits to UZH Robotics & Perception Group's work, as this platform largely builds from their own platform (Agilicious). AgIRoM explores the potential for drones that can navigate unknown, changing environments utilizing completely internal computation (onboard computers, computer vision, etc. ~ i.e. no external odometry or processing). On this page, you will find helpful information regarding how the platform works, and how to build/develop it!
