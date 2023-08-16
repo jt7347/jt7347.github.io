@@ -6,7 +6,7 @@ collection: portfolio
 
 **AgIRoM**             | 
 :-------------------------:|
-<img src='/images/agirom_desk.jpg' width=50%> |
+<img src='/images/agirom_desk.PNG' width='600'> |
 
 Overview
 ======
