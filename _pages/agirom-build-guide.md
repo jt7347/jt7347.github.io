@@ -111,7 +111,7 @@ To update the current docker image with any added changes you want to keep, you 
 ```
 sudo docker commit <container_id> ros_agilicious:latest
 ```
-where "<container_id>" is replaced by the CONTAINER ID string found by checking the running docker containers.
+where \<container_id> is replaced by the CONTAINER ID string found by checking the running docker containers.
 
 ##### Config / parameter files
 Agilicious contains many different config files, each specifying different run parameters. Knowing which to use, what each do, and which lines to edit is important, as plugging in a different config file without knowing what it does can be catastrophic (e.g. don't randomly sub in ekf_full_imu.yaml for the default ekf_full_no_imu.yaml in the pilot config definition, as this causes the T265's uptilt to be accounted for in the estimator and subsequently aggressively pitch the quad during takeoff - leading to a pretty fatal crash).
@@ -159,7 +159,7 @@ export ROS_IP=<IP_OF_THIS_DEVICE>
 export ROS_MASTER_URI=http://<IP_OF_MASTER_HERE>:11311
 roslaunch outdoor_quadrotor.launch quad_name:=agirom
 ```
-++ Designate either the quad or the basecomputer as the master, and use that device's IP address for "<IP_OF_MASTER_HERE>." "<IP_OF_THIS_DEVICE>" on the other hand, is just the device's own IP address. These export steps set up the devices for ROS Networking.
+++ Designate either the quad or the basecomputer as the master, and use that device's IP address for \<IP_OF_MASTER_HERE>. \<IP_OF_THIS_DEVICE> on the other hand, is just the device's own IP address. These export steps set up the devices for ROS Networking.
 
 [follow agilicious steps, mention key safety stuff]
 
