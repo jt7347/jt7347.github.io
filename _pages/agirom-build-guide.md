@@ -10,7 +10,7 @@ Hi! This is AgIRoM, a replicated hardware platform for agile vision-based autono
 
 **AgIRoM**             | 
 :-------------------------:|
-<img src='https://github.com/jt7347/jt7347.github.io/assets/124174685/0ecc516a-5d21-4fe5-9b7c-19434a3c020e' width=50%> |
+<img src='https://github.com/jt7347/jt7347.github.io/blob/master/images/AgIRoM_fullbuild.jpg' width=50%> |
 
 # **[CITE FROM UZH RPG Agilicious](https://github.com/uzh-rpg/agilicious_internal#credits)**
 
