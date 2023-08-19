@@ -4,7 +4,7 @@ excerpt: "A Replicated Hardware Platform for Agile Autonomous Vision-Based Fligh
 collection: portfolio
 ---
 
-<img src='/images/agirom_desk.PNG' width='600'> |
+<img src='/images/agirom_desk.PNG' width='600'>
 
 Overview
 ======

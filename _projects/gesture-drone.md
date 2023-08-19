@@ -5,3 +5,5 @@ collection: portfolio
 ---
 
 *Add Gesture Drone info here.
+
+<video src='/files/Gesture_Control_Takeoff.mov' width='500'>
