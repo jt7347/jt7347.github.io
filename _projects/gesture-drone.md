@@ -6,4 +6,6 @@ collection: portfolio
 
 *Add Gesture Drone info here.
 
-<iframe width="560" src="https://github.com/jt7347/jt7347.github.io/assets/124174685/940eb0af-6b34-4ccd-a38c-1e40d2d4ddcc" frameborder="0" allowfullscreen></iframe>
+<video muted autoplay controls>
+    <source src="/files/Gesture_Control_Takeoff.mp4" type="video/mp4">
+</video>
