@@ -7,7 +7,7 @@ author_profile: true
 
 Hi! This is AgIRoM, a replicated hardware platform for agile vision-based autonomous flight. Credits to UZH Robotics & Perception Group's work, as this platform largely builds from their own platform (Agilicious). AgIRoM explores the potential for drones that can navigate unknown, changing environments utilizing completely internal computation (onboard computers, computer vision, etc. ~ i.e. no external odometry/processing). On this page, you will find helpful information regarding how the platform works, and how to build/develop it!
 
-# **[If used in academic context, citation information found here.](https://github.com/uzh-rpg/agilicious_internal#credits)**
+# **[If used in academic context, citation information for Agilicious found here.](https://github.com/uzh-rpg/agilicious_internal#credits)**
 
 ## UZH RPG Agilicious Overview
 UZH's Robotics and Perception Group recently open-sourced their Agilicious Platform. Agilicious contains both instructions and code to replicate the hardware platform that UZH have been using in their own research. More specifically, it provides a 'standardizable' approach to developing agile autonomous vision-based drones. This entails the inclusion of custom controllers, bridges, estimators, safety pipelines, simulators, and references. Akin to IRoM's own goal of having modular pieces of hardware that can be used in research applications, AgIRoM was built both as a means to conduct UAV research, but also to further the process of standardizing a platform (namely, UZH RPG's).
