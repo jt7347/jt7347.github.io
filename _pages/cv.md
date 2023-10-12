@@ -14,8 +14,6 @@ Education
 * B.S.E. Candidate, Mechanical and Aerospace Engineering @Princeton University, Class of 2025
   * Certificate in Robotics and Intelligent Systems
   * GPA: 3.55 (current)
-* High School Diploma @Northfield Mount Hermon School, Class of 2021
-  * GPA: 3.98 (Unweighted)
 
 Work experience
 ======
