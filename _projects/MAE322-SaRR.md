@@ -9,6 +9,3 @@ For my MAE322 Mechanical Design course's final project, student-led teams were t
 <img src='/images/SaRR_WallE.jpg' width='450'>
 
 The full [code](https://github.com/jt7347/SaRR_Fryday) can be found on my github page, alongside a video demonstration!
-
-
-
