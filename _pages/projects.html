@@ -9,7 +9,9 @@ author_profile: true
 
 {% assign sorted_projects = site.projects | sort:"name" %}
 {% for node in sorted_projects %}
-  <li><a href="{{node.url}}">{{node.title}}</a></li>
+  <li>
+    {% include archive-single.html %}
+  </li>
 {% endfor %}
 
 <!-- <ul>
