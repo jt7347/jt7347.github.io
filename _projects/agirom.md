@@ -28,14 +28,14 @@ Flight Testing
 ======
 Here are some videos of recent flight tests. The first test uses externally provided odometry through VICON motion tracking. 
 
-<video muted autoplay controls>
-    <source src="/files/VICON.mp4" type="video/mp4">
+<video muted controls>
+    <source src="/files/VICON.mp4" type="video/mp4" width='750'>
 </video>
 
 In this second video, the quadcopter is using onboard VIO algorithms for internally computed state estimation using a realsense T265 camera. 
 
-<video muted autoplay controls>
-    <source src="/files/VISION_FEEDTHROUGH.mp4" type="video/mp4">
+<video muted controls>
+    <source src="/files/VISION_FEEDTHROUGH.mp4" type="video/mp4" width='750'>
 </video>
 
 Simulation Software
