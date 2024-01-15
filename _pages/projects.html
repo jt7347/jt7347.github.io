@@ -8,7 +8,20 @@ author_profile: true
 {% include base_path %}
 
 
-{% for post in site.projects reversed %}
-  {% include archive-single.html %}
+
+<ul>
+{% for weight in (1..10) %}
+  {% for post in site.projects %}
+    {% if post.weight == weight %}
+      {% for post in site.projects reversed %}
+        {% include archive-single.html %}
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
 {% endfor %}
+</ul>
+
+<!-- {% for post in site.projects reversed %}
+  {% include archive-single.html %}
+{% endfor %} -->
 
