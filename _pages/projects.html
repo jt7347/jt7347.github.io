@@ -8,10 +8,8 @@ author_profile: true
 {% include base_path %}
 
 {% assign sorted_projects = site.projects | sort:"name" %}
-{% for node in sorted_projects %}
-  <li>
-    {% include archive-single.html %}
-  </li>
+{% for post in sorted_projects %}
+  {% include archive-single.html %}
 {% endfor %}
 
 <!-- <ul>
