@@ -24,6 +24,20 @@ This guide will provide pointers for building and running the platform, includin
 
 For any questions, you can email jt7347 [at] princeton [dot] edu, or post an issue directly on the [_Agilicious_](https://github.com/uzh-rpg/agilicious) repo (request access reqired).
 
+Flight Testing
+======
+Here are some videos of recent flight tests. The first test uses externally provided odometry through VICON motion tracking. 
+
+<video muted autoplay controls>
+    <source src="/files/VICON.mov" type="video/mov">
+</video>
+
+In this second video, the quadcopter is using onboard VIO algorithms for internally computed state estimation using a realsense T265 camera. 
+
+<video muted autoplay controls>
+    <source src="/files/VISION_FEEDTHROUGH.mov" type="video/mov">
+</video>
+
 Simulation Software
 ======
 One of the baseline purposes for AgIRoM is to be able to navigate unknown, changing environments in real time. The next step of AgIRoM was to get it working in base case situations: the interest of IRoM being navigation of UAVs in unknown changing environments. With the main purpose of the platform being 'development,' it would be useful to see if we could first implement a working application before additional features or policies could be implemented on top. For this purpose, I am currently looking into using UZH's [_Agile Autonomy_](https://github.com/uzh-rpg/agile_autonomy) repository as a benchmark for navigation. So far, I have been able to build and run their sample code (below is example of the output of the training).
