@@ -13,7 +13,7 @@ Education
 ======
 * B.S.E. Candidate, Mechanical and Aerospace Engineering @Princeton University, Class of 2025
   * Certificate in Robotics and Intelligent Systems
-  * GPA: 3.55 (current)
+  * GPA: 3.5 (current)
 
 Work experience
 ======
@@ -37,7 +37,8 @@ Skills
   * CAD Modelling (Creo, Fusion360, OnShape)
   * 3D Printing (FDM, SLS)
 * Computer Skills
-  * Programming Languages: Profficient in Python MATLAB, Java; Experience with Unity (C#), C++, ROS
+  * Programming Languages: Profficient in Python, MATLAB, Java; Experience with Unity (C#), C++, ROS
+  * Software: MATLAB Simulink, AGI STK
   * Working in Linux Environments
   * Flight Controller Software: PX4 Autopilot, Betaflight
   * Experience with Raspberry Pi and Jetson Orin NX boards
