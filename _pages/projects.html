@@ -24,7 +24,8 @@ author_profile: true
 {% endfor %}
 </ul> -->
 
-{% for post in site.projects reversed %}
+{% for post in site.projects | sort(false, false, "data.title") %}
+<!-- {% for post in site.projects reversed %} -->
   {% include archive-single.html %}
 {% endfor %}
 
