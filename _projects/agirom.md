@@ -38,8 +38,10 @@ In this second video, the quadcopter is using onboard VIO algorithms for interna
     <source src="/files/VISION_FEEDTHROUGH.mp4" type="video/mp4">
 </video>
 
-Simulation Software
+Integration with Simulation Environment and D435 Depth Camera
 ======
-One of the baseline purposes for AgIRoM is to be able to navigate unknown, changing environments in real time. The next step of AgIRoM was to get it working in base case situations: the interest of IRoM being navigation of UAVs in unknown changing environments. With the main purpose of the platform being 'development,' it would be useful to see if we could first implement a working application before additional features or policies could be implemented on top. For this purpose, I am currently looking into using UZH's [_Agile Autonomy_](https://github.com/uzh-rpg/agile_autonomy) repository as a benchmark for navigation. So far, I have been able to build and run their sample code (below is example of the output of the training).
+One of the baseline purposes for AgIRoM is to be able to navigate unknown, changing environments in real time. The next step of AgIRoM was to get it working in base case situations: the interest of IRoM being navigation of UAVs in unknown changing environments. With the main purpose of the platform being 'development,' it would be useful to see if we could first implement a working application before additional features or policies could be implemented on top. For this purpose, our team has developed a simulation/visualization environment in Gazebo using the Agilicious 'Agisim' quadcopter dynamics model, in addition to a simple planner pipeline. After verifying that our planner worked via a simulated depth camera, we are moving to testing with real hardware - here is an initial test integrating VIO and Depth to display a pointcloud of the environment:
 
-<img src='/images/agile-autonomy.PNG' width='750'>
+<video muted controls width="750">
+    <source src="/files/POINTCLOUD.mp4" type="video/mp4">
+</video>
