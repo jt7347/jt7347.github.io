@@ -36,9 +36,7 @@ In this second video, the quadcopter is using onboard VIO algorithms for interna
 
 <video muted controls width="750">
     <source src="/files/VISION_FEEDTHROUGH.mp4" type="video/mp4">
-</video>
-
-<br>
+</video> <br>
 
 Integration with Simulation Environment and D435 Depth Camera
 ======
