@@ -1,6 +1,6 @@
 ---
 title: "AgIRoM"
-excerpt: "A Replicated Hardware Research Platform for Agile Autonomous Vision-Based Flight<br/><br/><img src='/images/AgIRoM_fullbuild.jpg' width='600'>"
+excerpt: "Hardware Platform for Agile Autonomous Vision-Based Flight Through Unknown and Changing Environments<br/><br/><img src='/images/AgIRoM_fullbuild.jpg' width='600'>"
 collection: portfolio
 ---
 
