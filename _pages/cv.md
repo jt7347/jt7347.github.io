@@ -17,6 +17,9 @@ Education
 
 Work experience
 ======
+* Summer 2024: Robotics Software Intern
+  * Pliant Energy Systems, Brooklyn
+
 * Jan 2023 - Present: Undergraduate Researcher
   * Intelligent Robot Motion Lab, Princeton University
 
@@ -30,6 +33,8 @@ Leadership Experience
 ======
 * President Emiritus / Drone Team Lead
   * Princeton University Robotics Club
+* Team Captain
+  * Princeton Men's Division Ultimate Frisbee
 
 Skills
 ======
@@ -37,11 +42,11 @@ Skills
   * CAD Modelling (Creo, Fusion360, OnShape)
   * 3D Printing (FDM, SLS)
 * Computer Skills
-  * Programming Languages: Profficient in Python, MATLAB, Java; Experience with Unity (C#), C++, ROS
+  * Programming Languages: C++, Python, ROS, MOOS-IvP, MATLAB, Java
   * Software: MATLAB Simulink, AGI STK
   * Working in Linux Environments
   * Flight Controller Software: PX4 Autopilot, Betaflight
-  * Experience with Raspberry Pi and Jetson Orin NX boards
+  * Experience with Raspberry Pi and Jetson Compute boards
 * Electronics
-  * Soldering
+  * Soldering, Wiring
 
