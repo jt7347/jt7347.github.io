@@ -14,7 +14,7 @@ Essentially:
 
 Turning this... | Into this!
 :-------------------------:|:-------------------------:
-<img src='/images/AgIRoM_dead.gif' width='325'> | <img src='/images/AgIRoM_setpoint.gif' width='327'>
+<img src='/images/AgIRoM_dead.gif' width='325'> | <img src='/images/AgIRoM_STRAIGHT_LINE_PLANNER.gif' width='327'>
 
 I am also working as an undergraduate researcher at the Intelligent Robot Motion Lab ([IRoM](https://irom-lab.princeton.edu/)), advised by [Professor Majumdar](https://irom-lab.princeton.edu/majumdar/) and my graduate student mentor [Nathaniel Simon](https://natesimon.github.io/). I am working alongside [Arti Schmidt](https://aschmidt.me/) and Nate to build and develop an agile computer vision-based autonomous quadcopter platform to be deployed in unknown, changing environments. The progress of my work can be found under the [projects](https://jt7347.github.io/projects/) page, alongside a build guide for AgIRoM (the name of the project). It should be noted that AgIRoM is based off UZH Robotics and Perception Group's open-source platform, [Agilicious](https://github.com/uzh-rpg/agilicious). The overarching goals for AgIRoM include furthering the process of standardizing autonomous drone research platforms across research labs, alongside having a modular piece of hardware that can be applied in the Lab's future UAV research.
 
