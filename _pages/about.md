@@ -12,7 +12,7 @@ I am an undergraduate student at [Princeton University](https://www.princeton.ed
 
 Essentially:
 
-Turning this... | Into this!
+Turning this... | Into this (4x speed)!
 :-------------------------:|:-------------------------:
 <img src='/images/AgIRoM_dead.gif' width='325'> | <img src='/images/AgIRoM_STRAIGHT_LINE_PLANNER.gif' width='327'>
 
