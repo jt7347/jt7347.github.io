@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am recently graduated student at [Princeton University](https://www.princeton.edu/), where I attained a B.S.E. degree in [Mechanical and Aerospace Engineering](https://mae.princeton.edu/), with a certificate in [Robotics and Intellient Systems](https://ris.princeton.edu/). With aspirations to help advance the integration of aerospace and robotics engineering within the space industry, I am interested in shaping my pursuits towards a future where robots can safely and efficiently aid humans in space exploration initiatives.
+I am a recently graduated student at [Princeton University](https://www.princeton.edu/), where I attained a B.S.E. degree in [Mechanical and Aerospace Engineering](https://mae.princeton.edu/), with a certificate in [Robotics and Intellient Systems](https://ris.princeton.edu/). With aspirations to help advance the integration of aerospace and robotics engineering within the space industry, I am interested in shaping my pursuits towards a future where robots can safely and efficiently aid humans in space exploration initiatives.
 
 Essentially:
 
