@@ -11,16 +11,20 @@ redirect_from:
 
 Education
 ======
+* M.S. Candidate, Robotics @University of Boulder Colorado
 * B.S.E. Candidate, Mechanical and Aerospace Engineering @Princeton University, Class of 2025
   * Certificate in Robotics and Intelligent Systems
   * GPA: 3.5 (current)
 
 Work experience
 ======
+* Aug 2025 - Present: Graduate Research Assistant
+  * PRAISe Lab, Univerity of Boulder Colorado
+
 * Summer 2024: Robotics Software Intern
   * Pliant Energy Systems, Brooklyn
 
-* Jan 2023 - Present: Undergraduate Researcher
+* Jan 2023 - May 2025: Undergraduate Researcher
   * Intelligent Robot Motion Lab, Princeton University
 
 * Summer 2023: Summer Research Intern
