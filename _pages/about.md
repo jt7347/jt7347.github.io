@@ -8,17 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a recently graduated student at [Princeton University](https://www.princeton.edu/), where I attained a B.S.E. degree in [Mechanical and Aerospace Engineering](https://mae.princeton.edu/), with a certificate in [Robotics and Intellient Systems](https://ris.princeton.edu/). With aspirations to help advance the integration of aerospace and robotics engineering within the space industry, I am interested in shaping my pursuits towards a future where robots can safely and efficiently aid humans in space exploration initiatives.
+I am currently pursuing an M.S. in Robotics degree at the University of Colorado Boulder, where I also work as a graduate research assistant in the Perception, Robotics, AI, and Sensing ([PRAISe](https://www.praisecu.com/)) Lab, led by Professor [Chahat Deep Singh](https://www.colorado.edu/mechanical/chahat-singh). 
+
+I build intelligent robotic systems aimed at extending the practical limits of autonomous operation in extreme environments, with a long-term focus on space exploration. My work focuses on perception and navigation for resource-constrained robots operating under uncertainty, limited sensing, and strict computational and power budgets.
+
+More specifically, my research centers on two closely related questions: how can robots reliably perceive, reason about, and navigate environments they have never encountered before, under harsh operating conditions and with minimal human supervision; and how can increasingly capable foundation models be integrated while preserving safety, predictability, and verifiable guarantees, particularly for robots deployed in mission-critical, resource-constrained settings?
 
 Essentially:
 
 Turning this... | Into this (4x speed)!
 :-------------------------:|:-------------------------:
 <img src='/images/AgIRoM_dead.gif' width='325'> | <img src='/images/AgIRoM_STRAIGHT_LINE_PLANNER.gif' width='327'>
-
-During my time at Princeton University, I worked as an undergraduate researcher at the Intelligent Robot Motion Lab ([IRoM](https://irom-lab.princeton.edu/)), advised by [Professor Majumdar](https://irom-lab.princeton.edu/majumdar/) and my graduate student mentor [Nathaniel Simon](https://natesimon.github.io/). I am worked alongside [Arti Schmidt](https://aschmidt.me/) and Nate to build and develop an agile computer vision-based autonomous quadcopter platform to be deployed in unknown, changing environments. The progress of my work can be found under the [projects](https://jt7347.github.io/projects/) page, alongside a build guide for AgIRoM (the name of the project). It should be noted that AgIRoM is based off UZH Robotics and Perception Group's open-source platform, [Agilicious](https://github.com/uzh-rpg/agilicious). The overarching goals for AgIRoM include furthering the process of standardizing autonomous drone research platforms across research labs, alongside having a modular piece of hardware that can be applied in the Lab's future UAV research.
-
-Outside of academics and work, I was involved in Princeton University Robotics Club where I led the Drone Team - one of our recent projects being a fully autonomous quadcopter (using the [PX4 Autopilot](https://px4.io/)) with computer-vision based gesture control capabilities, and I also played for the Princeton Men's Division Ultimate Frisbee Team! I am planning to attend the University of Boulder Colorado in the Fall to pursue my Master's in Robotics degree.
 
 <!-- A data-driven personal website
 ======
