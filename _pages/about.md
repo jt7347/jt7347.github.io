@@ -20,7 +20,7 @@ Turning this... | Into this (4x speed)!
 :-------------------------:|:-------------------------:
 <img src='/images/AgIRoM_dead.gif' width='325'> | <img src='/images/AgIRoM_STRAIGHT_LINE_PLANNER.gif' width='327'>
 
-Stay tuned for updates on my latest research project involving lightweight vision foundation models for navigation on resource-constrained robots, which also features a sub-350g drone running the AgIRoM framework (which I developed at IRoM Lab, Princeton University, and recognized with the Sigma Xi Book Award for Research Excellence)!
+Stay tuned for updates on my latest research project involving lightweight vision foundation models and resource-constrained robot navigation! This project will also feature hardware testing done on a sub-350g drone running AgIRoM (an autonomous drone framework developed at IRoM Lab based on Agilicious, recognized by the Mechanical and Aerospace Engingeering Department at Princeton University with the Sigma Xi Book Award for Research Excellence).
 
 <!-- A data-driven personal website
 ======
