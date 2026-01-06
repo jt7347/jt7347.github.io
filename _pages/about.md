@@ -10,15 +10,17 @@ redirect_from:
 
 I am currently pursuing an M.S. in Robotics degree at the University of Colorado Boulder, where I also work as a graduate research assistant in the Perception, Robotics, AI, and Sensing ([PRAISe](https://www.praisecu.com/)) Lab, led by Professor [Chahat Deep Singh](https://www.colorado.edu/mechanical/chahat-singh). 
 
-I build intelligent robotic systems aimed at extending the practical limits of autonomous operation in extreme environments, with a long-term focus on space exploration. My work focuses on perception and navigation for resource-constrained robots operating under uncertainty, limited sensing, and strict computational and power budgets.
+I build intelligent robotic systems aimed at extending the practical limits of autonomous operation in extreme environments, with a long-term goal of pushing the boundaries of space exploration. My work focuses on perception and navigation for resource-constrained robots operating under uncertainty, limited sensing, and strict computational and power budgets.
 
-More specifically, my research centers on two closely related questions: how can robots reliably perceive, reason about, and navigate environments they have never encountered before, under harsh operating conditions and with minimal human supervision; and how can increasingly capable foundation models be integrated while preserving safety, predictability, and verifiable guarantees, particularly for robots deployed in mission-critical, resource-constrained settings?
+More specifically, my research centers on two closely related questions: how can robots reliably perceive, reason about, and navigate environments they have never encountered before, under harsh operating conditions and with minimal human supervision; and how can increasingly capable foundation models be integrated while preserving safety, predictability, and verifiable guarantees, particularly for robots deployed in mission-critical settings?
 
 Essentially:
 
 Turning this... | Into this (4x speed)!
 :-------------------------:|:-------------------------:
 <img src='/images/AgIRoM_dead.gif' width='325'> | <img src='/images/AgIRoM_STRAIGHT_LINE_PLANNER.gif' width='327'>
+
+Stay tuned for updates on my latest research project involving lightweight vision foundation models for navigation on resource-constrained robots, which also features a sub-350g drone running the AgIRoM framework (which I developed at IRoM Lab, Princeton University, and recognized with the Sigma Xi Book Award for Research Excellence)!
 
 <!-- A data-driven personal website
 ======
