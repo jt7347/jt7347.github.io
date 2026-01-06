@@ -12,9 +12,10 @@ redirect_from:
 Education
 ======
 * M.S. Candidate, Robotics @University of Boulder Colorado
+  * GPA: 4.0 (current)
 * B.S.E. Candidate, Mechanical and Aerospace Engineering @Princeton University, Class of 2025
   * Certificate in Robotics and Intelligent Systems
-  * GPA: 3.5 (current)
+  * GPA: 3.5
 
 Work experience
 ======
